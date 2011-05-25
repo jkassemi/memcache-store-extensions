@@ -1,1 +1,1 @@
-require File.dirname(__FILE__) + '/lib/memcache_store_extensions'
+require File.dirname(__FILE__) + '/lib/memcache-store-extensions'
