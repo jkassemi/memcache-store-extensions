@@ -1,5 +1,7 @@
 == Memcache Storage Extensions
 
+*NO LONGER ACTIVELY MAINTAINED* - this project should be considered Archived. If you are interested in maintaining an official fork, please contact me directly.
+
 The memcache-store-extensions plugin for Rails 3 adds support for match-based deletes while using the memcached storage engine.
 
 === Installation
